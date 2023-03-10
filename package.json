@@ -21,7 +21,7 @@
     "through2": "^3.0.1"
   },
   "devDependencies": {
-    "browserify": "^16.5.0",
+    "browserify": "^16.5.2",
     "clone": "^2.1.2",
     "depcheck": "^1.4.3",
     "eslint": "^7.24.0",
