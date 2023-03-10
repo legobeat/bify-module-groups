@@ -1,6 +1,6 @@
 {
   "name": "bify-module-groups",
-  "version": "2.0.0",
+  "version": "2.1.0-alpha0",
   "main": "src/index.js",
   "exports": {
     ".": "./src/index.js",
